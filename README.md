@@ -7,7 +7,9 @@
 
 **4. Put cookies in the cookies.txt file.**
 
-**5. Run `py main.py` command in your cmd prompt and type the user ID, then you're done!**
+**5. Put proxies into the proxies.txt file.**
+
+**6. Run `py main.py` command in your cmd prompt and type the user ID, then you're done!**
 
 # Notes
 *This is my first Python program so don't judge lol. Will be updating this more later.*
